@@ -1,0 +1,3 @@
+*.log
+static/local
+backend/lambda1.txt
